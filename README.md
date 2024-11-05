@@ -1,3 +1,4 @@
 # WhenRatsFly
 The player controls a flying rat capable of side-to-side movement while navigating through an infinite gameplay loop while accumulating a high score. The main aspect of the game is a stamina meter, located at the top of the game. When this stamina meter runs out, the game is over. Stamina is recovered by eating the peas that the player has to constantly consume while avoiding the oncoming bats, which will also cause game over. Difficulty is increased over time by increasing the rate of stamina decay at regular intervals, ensuring a steady increase in difficulty over time. There is also a rare banana that can be consumed, which increases the number of items (peas, bats, etc...), side-to-side speed, and overall game speed temporarily for a few seconds. 
  
+Note: Peas and bananas might sound like weird foods for a rat to eat. As a previous owner of pet rats, those were their favorites. End the cheese propaganda. 
