@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48435a988362d4744ac6ffc9e0f47790
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreCounter: {instanceID: 0}
+  - nibblingAudio: {fileID: 8300000, guid: d2aca050f7ea92847b368a0bbd24c02b, type: 3}
+  - squeakAudio: {fileID: 8300000, guid: 7380e77b168aa90438f012982eda2970, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
